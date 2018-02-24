@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+}
+h1 {
+	font-family: 'Patua One', cursive;
+}
+input {
+	text-align: center;
+}
+.side-to-side {
+  
+	justify-content: center;
+}
+.meter {
+	margin: 0% 4% 0% 4%;
+}
